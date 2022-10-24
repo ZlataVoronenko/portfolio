@@ -1,5 +1,5 @@
-Personal Portfolio Website in React
-This project was bootstrapped with Create React App.
+###Personal Portfolio Website in React
+##This project was bootstrapped with Create React App.
 
 Built using:
 
