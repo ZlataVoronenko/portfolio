@@ -50,5 +50,3 @@ router.post("/contact", (req, res) => {
     }
   });
 });
-Footer
-© 2022 GitHub, Inc.
